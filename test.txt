@@ -3,3 +3,5 @@ checkout 2
 add git push
 ssh test
 remove bag
+checkout add
+
