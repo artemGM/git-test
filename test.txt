@@ -5,5 +5,5 @@ ssh test
 remove bag
 checkout add
 Hello
-line from user2
+line from user2 line from user 1
 change from user1
