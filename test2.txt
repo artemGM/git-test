@@ -24,3 +24,5 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINgqRigyZIoMtB8AAWTGEWRArooShzKGMwhflCQe6r+d
 ssh -T unlimitet2011@yandex.com
 change from user2
 critical bug fixed
+line from user2 - lesson rebase
+
